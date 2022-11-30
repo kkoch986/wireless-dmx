@@ -1,4 +1,4 @@
-# wireless-dmx
+# ESP-NOW Base Wireless DMX Rig
 
 My home brewed wireless DMX rig using cheap esp32 chips and the
 [ESP-NOW](https://www.espressif.com/en/products/software/esp-now/overview)
